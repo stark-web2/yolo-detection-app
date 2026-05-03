@@ -1,6 +1,2 @@
 libgl1
 libglib2.0-dev
-libsm6
-libxrender1
-libxext6
- 
